@@ -1,0 +1,1 @@
+For this project, I was instructed to replicate an output log. The producer fileprints the various data fields, and the consumer program is intended to recieve this information, such as the heat and packed date fields. It then takes this information and upacks/organizes it into the output log.
